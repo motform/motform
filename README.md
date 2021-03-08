@@ -1,7 +1,7 @@
-### [arduino-cli-mode](https://github.com/motform/arduino-cli-mode)
+## [arduino-cli-mode](https://github.com/motform/arduino-cli-mode)
 emacs support for the arduino-cli
 
-### [reveal-remote-mode](https://github.com/motform/reveal-remote-mode)
+## [reveal-remote-mode](https://github.com/motform/reveal-remote-mode)
 use emacs to remote control reveal
 
 ### [processing-3-mode](https://github.com/motform/processing-3-mode)
