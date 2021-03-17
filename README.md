@@ -10,7 +10,7 @@ emacs mode for Processing 3
 ## [emacs.d](https://github.com/motform/emacs.d)
 a configuration for evil, pseudo-portable ergonomics and doubtful profits
 
-## [stimmung/mixtur](https://github.com/motform/stimmung)
+## [stimmung](https://github.com/motform/stimmung)
 an emacs theme tuned to inner harmonies
 
 ## [colemak-se](https://github.com/motform/colemak-se)
